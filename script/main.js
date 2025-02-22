@@ -9,12 +9,12 @@ document.addEventListener('keydown', function(e) {
 });
 
 const messages = [
-    "Tap dimana aja yaaa",
-    "hey kamu ❤️",
+    "Tap dimana aja yaaa wok",
+    "hey fafaa",
     "aku mau ngomong sesuatu nih",
     "coba pencet",
     "pencet lagi",
-    "ayo semangat mencetnya",
+    "ayo semangat mencetnya aowk",
     "janji ini terakhir",
     "serius",
     "ini",
@@ -22,11 +22,11 @@ const messages = [
     "tapi bohong hehe yahaha hayyuk",
     "aku tau pasti kamu kesal",
     "hmm",
-    "yaudah deh",
+    "yawes deh",
     "padahal",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "i love you❤️",
+    "i love you fa❤️",
     "bjiirlah",
     "coba pencet tombol dibawah ini 💝"
 ];
