@@ -80,7 +80,7 @@ function init() {
 
     ctx.textAlign = "center";
 
-    ctx.fillText("I love you sayang", width / 2, height / 2.2 + 400);
+    ctx.fillText("semoga kamu suka ya fa🥀", width / 2, height / 2.2 + 400);
 
   }
 
