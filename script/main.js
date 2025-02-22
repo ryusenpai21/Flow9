@@ -9,24 +9,24 @@ document.addEventListener('keydown', function(e) {
 });
 
 const messages = [
-    "Tap dimana aja yaaa",
-    "hey kamu ❤️",
+    "Tap dimana aja yaaa fa",
+    "faaa ",
     "aku mau ngomong sesuatu nih",
     "coba pencet",
     "pencet lagi",
-    "ayo semangat mencetnya",
-    "janji ini terakhir",
+    "ayo semangat mencetnya aowk",
+    "janji ini terakhir wes",
     "serius",
     "ini",
     "terakhir",
-    "tapi bohong hehe yahaha hayyuk",
-    "aku tau pasti kamu kesal",
+    "tapi boong awokawok",
+    "kamu kesal nih pasti :v",
     "hmm",
-    "yaudah deh",
+    "yawess deh",
     "padahal",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "i love you❤️",
+    "i love you fa❤️",
     "bjiirlah",
     "coba pencet tombol dibawah ini 💝"
 ];
